@@ -36,7 +36,7 @@
 #include <termios.h>
 #include <sys/ioctl.h>
 #include <net/if.h>
-#include <linux/if_tun.h>
+//#include <linux/if_tun.h>
 #endif
 #include <sys/stat.h>
 #include <signal.h>
